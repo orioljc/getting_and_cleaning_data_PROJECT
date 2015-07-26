@@ -13,4 +13,6 @@ It contains the script used to complet the assignment, wich is divided in the sa
 
 (b) CodeBook.md  Contains information of the variables used in the project. It can be used as a reference.
 
-(c) README.md  It is this document.
+(c) "features_info.txt" Contains information about each feature.
+
+(d) README.md  It is this document.
